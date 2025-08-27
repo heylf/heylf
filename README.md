@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi - I am Florian Heyl - Nice to meet you 👋
 
 - 💻 I’m currently developing scalable workflows and tools to analyze and process spatial omics and single cell multi-omics data, have a look at [nf-core/spatialxe](https://github.com/nf-core/spatialxe)
 - 🌱 I’m also exploring
@@ -13,6 +13,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=heylf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heylf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=heylf&limit=3&theme=dark&combine_all_yearly_contributions=true)
