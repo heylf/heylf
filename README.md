@@ -1,6 +1,6 @@
 ## Hi! I am Florian - Nice to meet you 👋
 
-- 💻 I’m currently developing scalable workflows and tools to analyze and process spatial omics and single cell multi-omics data, have a look at [nf-core/spatialxe](https://github.com/nf-core/spatialxe)
+- 💻 I’m currently developing scalable workflows and tools to analyze and process spatial omics and single cell multi-omics data, have a look for example at [nf-core/spatialxe](https://github.com/nf-core/spatialxe)
 - 🌱 I’m also exploring
   - deep learning methods to use them for artefact detection
   - GPU-accelerated data processing
