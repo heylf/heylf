@@ -17,3 +17,7 @@ Email: florian.heyl@dkfz-heidelberg.de
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heylf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=heylf&theme=default&hide_border=true)  
+ 
