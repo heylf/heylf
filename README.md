@@ -8,20 +8,20 @@
 
 ## :mortar_board: Scientific Interests:
 - Image-based spatial transcriptomics
- - - Artefact detection
- - Quality control
- - Noise estimation
- - Standard data processing
+  - Artefact detection
+  - Quality control
+  - Noise estimation
+  - Standard data processing
 - Bioinformatics pipelining
- - Nextflow, Galaxy, Snakemake
- - Scaling
- - Deploying workflows
- - resource and parameter optimization
+  - Nextflow, Galaxy, Snakemake
+  - Scaling
+  - Deploying workflows
+  - resource and parameter optimization
 - Single cell multiomics
- - Standardized data processing
- - Demultiplexing
- - Quality control
- - Artefact detection
+  - Standardized data processing
+  - Demultiplexing
+  - Quality control
+  - Artefact detection
   
 ## :mailbox_with_no_mail: How to reach me:
 - Email: florian.heyl@dkfz-heidelberg.de
