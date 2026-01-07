@@ -9,7 +9,7 @@
 💬 Ask me about:
 - Bioinformatics pipelining, scaling, deploying workflows, and codebase optimization
 - Quality control for spatial omics technologies
-- Standardized data processing for (multiplexed) single-cell multi-omics data
+- Standardized data processing for (multiplexed) single-cell multi-omics and image-based spatial omics data
 
 📫 How to reach me:
 Email: florian.heyl@dkfz-heidelberg.de
