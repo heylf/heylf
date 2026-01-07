@@ -5,14 +5,19 @@
 ## :fire: Key Projects
 
 ### Tools
-- A tool to evaluate and classify predicted peak profiles to assess the binding specificity of a protein to its targets: [StoatyDive](https://github.com/heylf/StoatyDive)
+- A tool to evaluate and classify predicted peak profiles to assess the binding specificity of a protein to its targets: [StoatyDive](https://github.com/heylf/StoatyDive).
+- Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects: [LiMetrack](https://bitbucket.org/schwarzlab/limetrack)
 
 ### Workflows
-- Nextlfow Xenium data processing pipeline: [nf-core/spatialxe](https://nf-co.re/spatialxe/dev/)
+- Nextlfow Xenium data processing pipeline: [nf-core/spatialxe](https://nf-co.re/spatialxe/dev/).
+- Spatial omics gene pane design workflow: [Spatial Omics Marker gene detection workflow](https://usegalaxy.eu/published/workflow?id=9adf0402b641042c).
+- A webserver to process, analyse and visualise CLIP-Seq data: [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html)
 
 ### Other Projects that I am supporting
 
-- A standardized Nextflow pipeline for benchmarking variant-calling workflows, enabling reproducible and FAIR analysis: [nf-core/variantbenchmarking](https://github.com/nf-core/variantbenchmarking)
+- A standardized Nextflow pipeline for benchmarking variant-calling workflows, enabling reproducible and FAIR analysis: [nf-core/variantbenchmarking](https://github.com/nf-core/variantbenchmarking).
+- Bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data: [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq/tree/2.6.0).
+- A flexible framework for applying spatially aware clustering methods: [SACCELERATOR](https://github.com/SpatialHackathon/SACCELERATOR).
 
 ## :mortar_board: Scientific Interests:
 - Image-based spatial transcriptomics
