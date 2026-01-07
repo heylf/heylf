@@ -6,12 +6,12 @@
 
 ### Tools
 - A tool to evaluate and classify predicted peak profiles to assess the binding specificity of a protein to its targets: [StoatyDive](https://github.com/heylf/StoatyDive).
-- Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects: [LiMetrack](https://bitbucket.org/schwarzlab/limetrack)
+- Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects: [LiMetrack](https://bitbucket.org/schwarzlab/limetrack).
 
 ### Workflows
 - Nextlfow Xenium data processing pipeline: [nf-core/spatialxe](https://nf-co.re/spatialxe/dev/).
 - Spatial omics gene pane design workflow: [Spatial Omics Marker gene detection workflow](https://usegalaxy.eu/published/workflow?id=9adf0402b641042c).
-- A webserver to process, analyse and visualise CLIP-Seq data: [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html)
+- A webserver to process, analyse and visualise CLIP-Seq data: [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html).
 
 ### Other Projects that I am supporting
 
