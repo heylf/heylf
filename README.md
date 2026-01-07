@@ -43,8 +43,8 @@
   - resource and parameter optimization
 
 ## :seedling: I’m also exploring:
-- Deep learning methods for artifact detection
 - GPU-accelerated data processing
+- Manifolds
   
 ## :mailbox_with_no_mail: How to reach me:
 - Email: florian.heyl@dkfz-heidelberg.de
