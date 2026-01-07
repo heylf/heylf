@@ -8,7 +8,7 @@
 
 ## :mortar_board: Scientific Interests:
 - Image-based spatial transcriptomics
- - Artefact detection
+ - - Artefact detection
  - Quality control
  - Noise estimation
  - Standard data processing
