@@ -12,16 +12,16 @@
   - Quality control
   - Noise estimation
   - Standard data processing
-- Bioinformatics pipelining
-  - Nextflow, Galaxy, Snakemake
-  - Scaling
-  - Deploying workflows
-  - resource and parameter optimization
 - Single cell multiomics
   - Standardized data processing
   - Demultiplexing
   - Quality control
   - Artefact detection
+- Bioinformatics pipelining
+  - Nextflow, Galaxy, Snakemake
+  - Scaling
+  - Deploying workflows
+  - resource and parameter optimization
   
 ## :mailbox_with_no_mail: How to reach me:
 - Email: florian.heyl@dkfz-heidelberg.de
