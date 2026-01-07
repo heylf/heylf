@@ -13,6 +13,7 @@
 
 📫 How to reach me:
 Email: florian.heyl@dkfz-heidelberg.de
+LinkedIn: https://www.linkedin.com/in/florian-heyl/
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heylf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
