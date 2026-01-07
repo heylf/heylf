@@ -22,6 +22,7 @@
 - A standardized Nextflow pipeline for benchmarking variant-calling workflows, enabling reproducible and FAIR analysis: [nf-core/variantbenchmarking](https://github.com/nf-core/variantbenchmarking).
 - Bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data: [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq/tree/2.6.0).
 - A flexible framework for applying spatially aware clustering methods: [SACCELERATOR](https://github.com/SpatialHackathon/SACCELERATOR).
+- Nextflow pipeline for processing highly-multiplexed imaging data, as produced by technologies such as Cycif, MIBI, CODEX, SeqIF among others: [nf-core/mcmicro](https://github.com/nf-core/mcmicro)
 - There are more private projects (please ask me about them).
 
 ## :mortar_board: Scientific Interests:
