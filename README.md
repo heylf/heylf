@@ -6,7 +6,7 @@
 
 ### Tools
 - A tool to evaluate and classify predicted peak profiles to assess the binding specificity of a protein to its targets: [StoatyDive](https://github.com/heylf/StoatyDive).
-- Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects: [LiMetrack](https://bitbucket.org/schwarzlab/limetrack).
+- Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects: [LiMetrack]([https://bitbucket.org/schwarzlab/limetrack](https://github.com/ICCB-Cologne/limetrack)).
 - There are more private projects (please ask me about them).
 
 ### Workflows
