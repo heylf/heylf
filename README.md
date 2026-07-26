@@ -24,27 +24,6 @@
 - A flexible framework for applying spatially aware clustering methods: [SACCELERATOR](https://github.com/SpatialHackathon/SACCELERATOR).
 - Nextflow pipeline for processing highly-multiplexed imaging data, as produced by technologies such as Cycif, MIBI, CODEX, SeqIF among others: [nf-core/mcmicro](https://github.com/nf-core/mcmicro).
 - There are more private projects (please ask me about them).
-
-## :mortar_board: Scientific Interests:
-- Image-based spatial transcriptomics
-  - Artefact detection
-  - Quality control
-  - Noise estimation
-  - Standard data processing
-- Single cell multiomics
-  - Standardized data processing
-  - Demultiplexing
-  - Quality control
-  - Artefact detection
-- Bioinformatics pipelining
-  - Nextflow, Galaxy, Snakemake
-  - Scaling
-  - Deploying workflows
-  - resource and parameter optimization
-
-## :seedling: I’m also exploring:
-- GPU-accelerated data processing
-- Manifolds
   
 ## :mailbox_with_no_mail: How to reach me:
 - Email: florian.heyl@dkfz-heidelberg.de
