@@ -9,7 +9,7 @@
 - [LiMetrack](https://github.com/ICCB-Cologne/limetrack): Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects.
 
 ### Workflows
-- [nf-core/spatialxe](https://nf-co.re/spatialxe/dev/): Nextlfow Xenium data processing pipeline.
+- [nf-core/spatialaxe](https://nf-co.re/spatialaxe/dev/): Nextlfow Xenium data processing pipeline.
 - [Spatial Omics Marker gene detection workflow](https://usegalaxy.eu/published/workflow?id=9adf0402b641042c): Galaxy spatial omics gene pane design workflow.
 - [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html): A webserver to process, analyse and visualise CLIP-Seq data.
 - [ATAC-Seq workflow](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.html): Galaxy ATAC-Seq data processing workflow, together with the Galaxy ATAC-Seq training material [ATAC-Seq data analysis](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/tutorial.html).
