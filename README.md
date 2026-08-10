@@ -11,7 +11,7 @@
 ### Workflows
 - [nf-core/spatialaxe](https://nf-co.re/spatialaxe/dev/) :axe: : Nextlfow Xenium data processing pipeline.
 - [Spatial Omics Marker gene detection workflow](https://usegalaxy.eu/published/workflow?id=9adf0402b641042c): Galaxy spatial omics gene pane design workflow.
-- [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html): A webserver to process, analyse and visualise CLIP-Seq data.
+- [Galaxy CLIP Explorer](https://usegalaxy-eu.github.io/index-clip.html) :bug: : A webserver to process, analyse and visualise CLIP-Seq data.
 - [ATAC-Seq workflow](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/workflows/main_workflow.html): Galaxy ATAC-Seq data processing workflow, together with the Galaxy ATAC-Seq training material [ATAC-Seq data analysis](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/atac-seq/tutorial.html).
 - [CUT&RUN workflow](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/cut_and_run/workflows/main_workflow.html): Galaxy CUT&RUN data processing worfklow, together with the Galaxy CUT&RUN training material [CUT&RUN data analysis](https://training.galaxyproject.org/training-material/topics/epigenetics/tutorials/cut_and_run/tutorial.html).
 
