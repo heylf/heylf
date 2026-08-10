@@ -17,7 +17,7 @@
 
 ### Other Projects that I am supporting
 
-- [nf-core/variantbenchmarking](https://github.com/nf-core/variantbenchmarking): A standardized Nextflow pipeline for benchmarking variant-calling workflows, enabling reproducible and FAIR analysis.
+- [nf-core/variantbenchmarking](https://github.com/nf-core/variantbenchmarking) :running: : A standardized Nextflow pipeline for benchmarking variant-calling workflows, enabling reproducible and FAIR analysis.
 - [nf-core/scrnaseq](https://github.com/nf-core/scrnaseq/tree/2.6.0): Bioinformatics best-practice analysis pipeline for processing 10x Genomics single-cell RNA-seq data.
 - [SACCELERATOR](https://github.com/SpatialHackathon/SACCELERATOR): A flexible framework for applying spatially aware clustering methods.
 - [nf-core/mcmicro](https://github.com/nf-core/mcmicro): Nextflow pipeline for processing highly-multiplexed imaging data, as produced by technologies such as Cycif, MIBI, CODEX, SeqIF among others.
