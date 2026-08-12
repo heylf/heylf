@@ -5,6 +5,7 @@
 ## :fire: Key Projects
 
 ### Tools
+- [spoQC](https://github.com/heylf/spoQC) :hand: : modular framework for multimodal quality control (QC) of imaging-based spatially resolved transcriptomics.
 - [StoatyDive](https://github.com/heylf/StoatyDive): A tool to evaluate and classify predicted peak profiles to assess the binding specificity of a protein to its targets.
 - [LiMetrack](https://github.com/ICCB-Cologne/limetrack): Lightweight, modular biosample management platform designed to streamline centralized research data handling and sample tracking within biomedical research projects.
 
